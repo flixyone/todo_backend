@@ -3,7 +3,7 @@
 Este repositorio contiene dos proyectos dentro de un solo repositorio:
 
 - **Astro.js**: Proyecto frontend para la interfaz de usuario de la aplicación.
-- **NestJS**: Proyecto backend para la API y la lógica de negocio.
+- **NestJS**: Proyecto backend para la API
 
 ## Requisitos previos
 
